@@ -1,7 +1,7 @@
 .navbar{
   box-shadow: 0px 0px 21px 1px #888888;
   background-color: white;
-  
+
 }
 .first {
   height: 20px;
@@ -21,7 +21,7 @@ font-weight: bolder;
 
 .navbar-toggler {
   border-radius: 8px;
-  // background-color: black;    
+  // background-color: black;
   font-size: small;
   color: white;
 }
@@ -38,7 +38,7 @@ font-weight: bolder;
   width: 120px;
   padding-top: 10px;
 
- 
+
 }
 footer{
   background-color: rgb(226, 225, 225);
@@ -46,15 +46,18 @@ footer{
 }
 .list li{
   padding-bottom: 8px;
-  
+
 }
 .icon{
  font-size: xx-large;
- 
+
 }
 .icon i{
   width: 50px;
 }
 .list li a{
   color: black;
+}
+.btn{
+  // margin-left: 125px;
 }
