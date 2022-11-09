@@ -1,5 +1,5 @@
 .carousel-item {
-  
+
     height: 75vh;
     // min-height: 250px;
     background: no-repeat center center scroll ;
@@ -11,31 +11,31 @@
   .carousel-caption {
     bottom: 270px;
   }
-  
+
   .carousel-caption h5 {
     font-size: 45px;
     text-transform: uppercase;
     letter-spacing: 2px;
     margin-top: 25px;
   }
-  
+
   .carousel-caption p {
     width: 75%;
     margin: auto;
     font-size: 18px;
     line-height: 1.9;
   }
-  
-  
-  
+
+
+
   /* ignore the code below */
-  
-  
+
+
 //   .link-area
 //   {
 //     position:fixed;
 //     bottom:20px;
-//     left:20px;  
+//     left:20px;
 //     padding:15px;
 //     border-radius:40px;
 //     background:tomato;
@@ -46,3 +46,34 @@
 //     color:#fff;
 //     font-size:25px;
 //   }
+.firstrow{
+
+}
+.text{
+  background-color: white;
+  // margin-top:20px ;
+
+
+  // padding-top: 70px;
+}
+.btn1{
+  background-color: rgb(170, 164, 164);
+  color: white;
+  font-weight: 100;
+}
+.font{
+  font-size: 4vw;
+
+}
+.bg1{
+  background-image: linear-gradient(to right top, #c6d5e9, #c9d8ea, #ccdaeb, #d0ddeb, #d3dfec);
+
+}
+.card
+{
+  border-radius:20px;
+}
+.cardrow{
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
